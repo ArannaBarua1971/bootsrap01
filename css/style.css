@@ -37,3 +37,14 @@ a,a:hover{
 #banner .row,.container{
     height: 100%;
 }
+
+#card .course{
+    padding:10px 0px;
+    border-radius: 10px;
+}
+#card .row{
+    justify-content: space-around;
+}
+#card .course .img_part img{
+    width: 100%;
+}
